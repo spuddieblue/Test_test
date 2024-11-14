@@ -9,10 +9,10 @@ graph TD
     E --> G
     F --> G
     G --> H{Time Slot Choice}
-    H --> I[Morning (9:00)]
-    H --> J[Noon (12:00) - 10% Premium]
-    H --> K[Afternoon (15:00) - 20% Premium]
-    H --> L[Evening (18:00) - 15% Premium]
+    H --> I[Morning 9:00]
+    H --> J[Noon 12:00 - 10% Premium]
+    H --> K[Afternoon 15:00 - 20% Premium]
+    H --> L[Evening 18:00 - 15% Premium]
     I --> M[Enter Number of Tickets]
     J --> M
     K --> M
