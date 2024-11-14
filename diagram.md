@@ -1,6 +1,4 @@
-# Bus Ticket System Flowchart
 
-```mermaid
 graph TD
     A[Start] --> B[Display Available Routes]
     B --> C{Route Choice}
