@@ -8,7 +8,7 @@ flowchart TD
     G -->|Valid Input| H[Set n1 = Choice]
     G -->|Invalid Input| I[Display Error]
     F -->|No| J[Continue]
-    
+
     C --> K[Check n2: Is it 10, 11, or 12?]
     K -->|Yes| L[Set n2 = 10]
     K -->|No| M[Check n2: Is it 14?]
