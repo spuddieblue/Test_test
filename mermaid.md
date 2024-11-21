@@ -41,4 +41,3 @@ flowchart TD
     T -->|Stand| AF[Display Final Total]
     AE --> AG[End Program]
     AF --> AG
-
