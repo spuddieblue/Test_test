@@ -20,6 +20,7 @@ writer.write("Hello, FileWriter!\n");
 writer.write("Another line.\n");
 writer.write(String.valueOf(56));  // Converts number to a string manually
 writer.close();
+```
 Output:
 text
 Copy code
